@@ -18,14 +18,14 @@
   <a href="https://codeigniter.com">
     <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" style="vertical-align:middle; margin-left:5px;"/>
   </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="vertical-align:middle; margin-left:5px;"/>
-  </a>
   <a href="https://www.microsoft.com/en-us/sql-server">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="vertical-align:middle; margin-left:5px;"/>
   </a>
   <a href="https://www.oracle.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="vertical-align:middle; margin-left:5px;"/>
+  </a>
+    <a href="https://www.mongodb.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="vertical-align:middle; margin-left:5px;"/>
   </a>
 </p>
 
